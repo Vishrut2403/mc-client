@@ -5,3 +5,6 @@
 !/schematics/
 /mods/.index/
 *.disabled
+!/shaderpacks/
+/shaderpacks/*.txt
+/shaderpacks/*.zip
