@@ -8,3 +8,5 @@
 !/shaderpacks/
 /shaderpacks/*.txt
 /shaderpacks/*.zip
+!/update.bat
+!/update.command
